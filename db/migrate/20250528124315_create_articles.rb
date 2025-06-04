@@ -6,4 +6,4 @@ class CreateArticles < ActiveRecord::Migration[8.0]
       t.timestamps
     end
   end
-endrails
+end
